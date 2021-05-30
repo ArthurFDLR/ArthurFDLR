@@ -1,6 +1,6 @@
 # Hi there, I'm [Arthur]([arthur](https://arthurfindelair.com))! <img src="./wave.gif" width="30px">
 
-<a href="https://github.com/ArthurFDLR/ArthurFDLR">
+<a href="https://arthurfindelair.com">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurFDLR&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide=issues&title_color=00184E&text_color=636568&icon_color=035DB4&bg_color=E9EBEE" alt="Arthur's GitHub Stats" />
 </a>
 
