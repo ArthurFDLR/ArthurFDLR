@@ -1,5 +1,10 @@
 # Hi there, I'm [Arthur]([arthur](https://arthurfindelair.com))! <img src="./wave.gif" width="30px">
 
+> "The code is the source of truth, the papers and everything else is a high-level summary."
+> 
+> ~ [Andrej Karpathy & Lex Fridman](https://youtu.be/cdiD-9MMpb0?t=9359)
+
+
 <a href="https://arthurfindelair.com">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurFDLR&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide=issues&title_color=00184E&text_color=636568&icon_color=035DB4&bg_color=E9EBEE" alt="Arthur's GitHub Stats" />
 </a>
